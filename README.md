@@ -1,16 +1,28 @@
-# ice_cream_ui_showcase
+# Ice Cream UI Showcase 🍦
 
-A new Flutter project.
+A Flutter UI/UX showcase exploring animated transitions inspired by physical books and pages.
 
-## Getting Started
+## Features
+- Book-style category selector
+- Page-turn animation inspired by real notebooks
+- Ice cream product showcase with layered parallax overlays
+- Smooth gestures and animations
+- Clean, component-based Flutter architecture
 
-This project is a starting point for a Flutter application.
+## Screens
+- Categories (Books)
+- Ice Cream Page (Page-turn animation)
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- Dart
+- PageView
+- Custom animations
+- Google Fonts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Purpose
+This project is a UI/UX experiment focusing on motion design and interaction.
+No backend or business logic included.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Fuat Ebuzeyneb
