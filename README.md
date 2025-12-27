@@ -13,8 +13,9 @@ A Flutter UI/UX showcase exploring animated transitions inspired by physical boo
 - Categories (Books)
 - Ice Cream Page (Page-turn animation)
 
-## Demo
-- 🎥 [Watch the demo video]([https://www.linkedin.com/posts/fuat-ebuzeyneb-b7b29b282_flutter-uiux-mobiledevelopment-activity-7409478730932244480-5lRq](https://www.linkedin.com/posts/fuat-ebuzeyneb-b7b29b282_flutter-mobiledevelopment-uiux-activity-7410606665751900160-Fv64?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES94c8BVLgnOgOL9RVspCR5nzXgCZ9r-bw))
+## 🎥 Demo
+
+[Watch the demo video.  ](https://www.linkedin.com/posts/fuat-ebuzeyneb-b7b29b282_flutter-mobiledevelopment-uiux-activity-7410606665751900160-Fv64?utm_source=share&utm_medium=member_desktop&rcm=ACoAAES94c8BVLgnOgOL9RVspCR5nzXgCZ9r-bw)
 
 ## Tech Stack
 - Flutter
